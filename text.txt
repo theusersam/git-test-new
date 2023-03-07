@@ -1,2 +1,3 @@
 working directory -> staging area ->local repository -> remote repo
 check!!
+
