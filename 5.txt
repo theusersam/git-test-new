@@ -1,7 +1,0 @@
-hi this is one
-hi this is two
-hi this is three
-hi this is four
-hi this is five
-this is second day of studying git.time is 11:48 p,.version1 commit.
-i am from alapuzha, but i live in bangalore.
