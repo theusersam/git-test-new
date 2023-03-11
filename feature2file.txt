@@ -1,2 +1,2 @@
 hi i am from feature2 branch
-created by devloper.
+created by devloper
