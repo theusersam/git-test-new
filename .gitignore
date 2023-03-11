@@ -1,2 +1,6 @@
 check.txt
-confidential/
+
+confidential/file-dob
+check3.txt
+!check2.txt
+app file/appcode2.txt
